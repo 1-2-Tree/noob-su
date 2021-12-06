@@ -1,0 +1,13 @@
+# This script is intended to show how it looks when you are rooted.
+# This script will only work on Termux
+echo Setting Up
+cd ~
+mkdir .root@localhost .tpi .su
+cd .tpi
+touch data Data dAta daTa datA DATA
+touch 1 2 3 4 5 6 7 8 9 eedd ige tug tujg tuu ryy wsd ojg mbv err wasf knb tyu dcv knntfg
+echo Building
+mv su /data/data/com.termux/files/usr/bin
+echo Running SU
+sleep 1
+echo ⚠️: Once done, you can only remove it by clearing data or reinstallation of Termux 
