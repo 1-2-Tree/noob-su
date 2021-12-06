@@ -1,2 +1,4 @@
-# noob-su
-It basically installs fake su inside your Termux. 
+# Termux-SuperUser-Access
+
+You can now install a su on Termux.
+ 
